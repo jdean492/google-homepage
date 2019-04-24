@@ -1,0 +1,24 @@
+<h1>Titles and headers</h1>
+<b>Bold text</b>
+Normal text
+<a href="">Links</a>
+<span class="current">Current navigation selection</span>
+<span class="error">Form input errors</span>
+<span class="gray">Gray text</span>
+<span class="secondary">Secondary text</span>
+<div class="form-group">
+  <label for="sampleTextArea">Label</label>
+  <textarea id="sampleTextArea" rows="3"></textarea>
+</div>
+<div class="inline form-group">
+  <label for="city">City</label>
+  <input type="text" id="city" style="width: 150px;">
+</div>
+<div class="inline form-group">
+  <label for="state">State</label>
+  <input type="text" id="state" style="width: 40px;">
+</div>
+<div class="inline form-group">
+  <label for="zip-code">Zip code</label>
+  <input type="text" id="zip-code" style="width: 65px;">
+</div>
